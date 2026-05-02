@@ -1,0 +1,1 @@
+rd_("ChThe User\xe2\x80\x99s PATH variable, removing ~/.local/bin to \xe2\x80\xa6AoReturns the argument unchanged.BaCalls <code>U::from(self)</code>.BeErrors when trying to resolve a path.eWhichCiResolve the provided path in the environment\xe2\x80\x99s PATH \xe2\x80\xa6AlIf path couldn\xe2\x80\x99t be found.")
